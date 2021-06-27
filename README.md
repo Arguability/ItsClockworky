@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @BukkitIsEnchanted
+- 👋 Hi, I’m @DebuggerByte
 - 👀 I’m interested in MediaWiki and PHP
 - 🌱 I’m currently learning JavaScript and CSS.
-- 💞️ I’m looking to become a system administrator for Miraheze
+- 💞️ I’m looking to become an actual dev
 - 📫 How to reach me 
-* IRC: Bukkity under the cloak of @miraheze/WikiJS
-* Discord: The best bet would be my Discord account or
-* Twitter: @NebulaProject
+* IRC: DebuggerByte
+* Discord: Bongo Cat On Discord#0001
+* Twitter: @JustinAves_
 <!---
 BukkitIsEnchanted/BukkitIsEnchanted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
