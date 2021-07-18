@@ -23,7 +23,6 @@ On @miraheze, Technology wise; I help around doing pull requests, and reporting 
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Wanna contact me? [email](mailto:justinaves@null.net) me! :)
  
@@ -81,7 +80,4 @@ On @miraheze, Technology wise; I help around doing pull requests, and reporting 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=scrapter&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
 
