@@ -2,7 +2,7 @@
 <a href="https://discord.gg/5tpFha4s4C">
   <img align="left" alt="Scrapter's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/localhostDev_">
+<a href="https://twitter.com/scrapter_">
   <img align="left" alt="Scrapter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
