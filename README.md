@@ -26,8 +26,7 @@ On @miraheze, Technology wise; I help around doing pull requests, and reporting 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Wanna contact me? [email](mailto:justinaves@null.net) me! :)
-
-**languages and tools:**  
+ 
 
 <!-- ### 💻 Stack I Work With
 
@@ -77,19 +76,6 @@ On @miraheze, Technology wise; I help around doing pull requests, and reporting 
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
-
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
